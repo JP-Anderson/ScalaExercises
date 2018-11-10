@@ -12,7 +12,7 @@ class SortSpec extends FlatSpec {
     assert(sort.isSorted(ascendingList, lessThan))
   }
 
-  "ascending list" should "not be sorted for x > y comparator" in {
+  it should "not be sorted for x > y comparator" in {
     val ascendingList = Array(1,2,3,4,5)
     val greaterThan = (x: Int, y: Int) => x > y
     assert(!sort.isSorted(ascendingList, greaterThan))
