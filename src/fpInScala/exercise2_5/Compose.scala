@@ -1,8 +1,5 @@
 package fpInScala.exercise2_5
 
-/**
-  * Created by Jp on 10/11/2018.
-  */
 class Compose {
 
   // Given: F1 which takes B and returns C, and F2 which takes A and returns B

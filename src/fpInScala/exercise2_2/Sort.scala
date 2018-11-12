@@ -1,8 +1,5 @@
 package fpInScala.exercise2_2
 
-/**
-  * Created by Jp on 10/11/2018.
-  */
 class Sort {
 
   def isSorted[A](as: Array[A], ordering: (A, A) => Boolean): Boolean = {

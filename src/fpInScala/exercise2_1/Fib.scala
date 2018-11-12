@@ -1,8 +1,5 @@
 package fpInScala.exercise2_1
 
-/**
-  * Created by Jp on 10/11/2018.
-  */
 class Fib {
 
   def fib(n: Int): Int = {
