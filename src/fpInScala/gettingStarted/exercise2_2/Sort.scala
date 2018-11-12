@@ -1,4 +1,4 @@
-package fpInScala.exercise2_2
+package fpInScala.gettingStarted.exercise2_2
 
 class Sort {
 

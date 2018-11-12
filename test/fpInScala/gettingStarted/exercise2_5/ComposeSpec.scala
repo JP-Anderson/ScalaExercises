@@ -1,4 +1,4 @@
-package fpInScala.exercise2_5
+package fpInScala.gettingStarted.exercise2_5
 
 import org.scalatest.FlatSpec
 

@@ -1,4 +1,4 @@
-package fpInScala.exercise2_1
+package fpInScala.gettingStarted.exercise2_1
 import org.scalatest.FlatSpec
 
 class FibSpec extends FlatSpec {

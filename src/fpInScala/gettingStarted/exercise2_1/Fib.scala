@@ -1,4 +1,4 @@
-package fpInScala.exercise2_1
+package fpInScala.gettingStarted.exercise2_1
 
 class Fib {
 

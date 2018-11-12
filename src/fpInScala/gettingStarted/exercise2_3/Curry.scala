@@ -1,4 +1,4 @@
-package fpInScala.exercise2_3
+package fpInScala.gettingStarted.exercise2_3
 
 class Curry {
 
